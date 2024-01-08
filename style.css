@@ -1,0 +1,90 @@
+.boardContainer {
+    display: flex;
+    width: 650px;
+    height: 650px;
+    margin: 4em;
+}
+
+#boxOne {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#boxTwo {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+} 
+
+#boxThree {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-right: 1px solid black
+}
+
+#boxFour {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#boxFive {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#boxSix {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#boxSeven {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+#boxEight {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-left: 1px solid black;
+}
+
+#boxNine {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-top: 1px solid black;
+}
